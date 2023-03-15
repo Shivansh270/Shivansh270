@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivansh270&label=Profile%20views&color=0e75b6&style=flat" alt="shivansh270" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **javascript, r**
+- 💬 Ask me about **javascript, reactJs**
 
 - 📫 How to reach me **gupta.shivansh2709@gmail.com**
 
